@@ -1,13 +1,21 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
+firebaseConfig.ts
+.env
+.env.local
+.env.*.local
 # dependencies
 node_modules/
-
+/.pnp
+.pnp.js
 # Expo
 .expo/
 dist/
 web-build/
 expo-env.d.ts
+.expo-shared/
+build/
+eas-build-on-simulator/
+eas.json
 
 # Native
 .kotlin/
@@ -41,3 +49,39 @@ app-example
 # generated native folders
 /ios
 /android
+# /////////////////////////////////////////////////////
+# Firebase & Environment Variables
+
+
+# Dependencies
+
+
+# Expo & Build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+.env.*.swp
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+tmp/
+temp/
