@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/sujalkumarchoudhary/GhostTags/issue)
-- **Email**: your.email@example.com
+- **Email**: sujalkumarchoudhary620@gmail.com
 
 ## 🙏 Acknowledgments
 
