@@ -36,7 +36,7 @@ A location-based augmented reality (AR) social game where users create, discover
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/ghosttags.git
+   git clone https://github.com/sujalkumarchoudhary/GhostTags
    cd ghosttags
    ```
 
@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ghosttags/issues)
+- **Issues**: [GitHub Issues](https://github.com/sujalkumarchoudhary/GhostTags/issue)
 - **Email**: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Sujal]**
